@@ -64,7 +64,7 @@ h1 {
 .card.is-flipped {
   transform: translateX(-100%)
   rotateY(-180deg);
-  background-color:  rgb(45, 163, 98);
+  background-color:rgb(45, 163, 98);
 }
   
 .card__face {
@@ -107,3 +107,4 @@ p {
   font-size: 1rem;
   margin: 50px;
 }
+
