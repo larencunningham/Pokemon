@@ -57,7 +57,7 @@ h1 {
 .card img {
   height: 130px;
   width: 140px;
-  float: right;
+  float: center;
   padding: 10px;
 }
 
@@ -107,4 +107,3 @@ p {
   font-size: 1rem;
   margin: 50px;
 }
-
